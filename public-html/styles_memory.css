@@ -1,0 +1,23 @@
+body {
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.game-container {
+    background-color: #ffffff;
+    padding: 5px;
+}
+
+.card {
+    width: 143px;
+    height: 227px;
+    border: transparent;
+}
+
+.card-group {
+    margin: 5px, auto;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(5, 140px);
+    gap: 1px;
+}
