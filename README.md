@@ -1,1 +1,1 @@
-Run <docker-compose up> to initialize.
+Run `docker-compose up` to initialize.
